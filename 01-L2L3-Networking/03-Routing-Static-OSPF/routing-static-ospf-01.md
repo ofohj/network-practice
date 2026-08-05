@@ -108,5 +108,4 @@ ping 192.168.20.10
 
 <img width="443" height="201" alt="스크린샷 2026-08-05 231940" src="https://github.com/user-attachments/assets/d6c8dde0-25fe-46fd-a190-f61f08bc8450" />
 
----
-
+>> 여기까지 정적 라우팅 완료!
