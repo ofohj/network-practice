@@ -24,11 +24,6 @@
 - **라우터 대 라우터 연결(WAN)**
   - Router0 Gi0/0/1 ↔ Router1 Gi0/0/1
 
-### ▼ 결과
-
-<img width="446" height="320" alt="스크린샷 2026-08-05 223922" src="https://github.com/user-attachments/assets/f3d76923-d8d1-4186-91ba-aff0ffe5dded" />
-
-
 ---
 
 ## 2. 라우터 IP 설정하기(CLI 환경)
@@ -106,6 +101,13 @@ ping 192.168.20.10
 
 ### ▼ 결과
 
+<img width="446" height="320" alt="스크린샷 2026-08-05 223922" src="https://github.com/user-attachments/assets/f3d76923-d8d1-4186-91ba-aff0ffe5dded" />
+
+<br>
+
 <img width="443" height="201" alt="스크린샷 2026-08-05 231940" src="https://github.com/user-attachments/assets/d6c8dde0-25fe-46fd-a190-f61f08bc8450" />
 
->> 여기까지 정적 라우팅 완료!
+<br>
+<br>
+
+> 여기까지 정적 라우팅 완료!
